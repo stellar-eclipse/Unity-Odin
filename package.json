@@ -1,0 +1,29 @@
+{  
+  "name": "odin",
+  "displayName": "Odin",
+  "description": "",
+  "version": "3.2.1",
+  "unity": "2021.3",
+  "samples": [
+    {
+      "displayName": "Custom Attribute Processors",
+      "description": "",
+      "path": "Samples~/Demos/Custom Attribute Processors"
+    },
+    {
+      "displayName": "Custom Drawers",
+      "description": "",
+      "path": "Samples~/Demos/Custom Drawers"
+    },
+    {
+      "displayName": "Editor Windows",
+      "description": "",
+      "path": "Samples~/Demos/Editor Windows"
+    },
+    {
+      "displayName": "RPG Editor",
+      "description": "",
+      "path": "Samples~/Demos/Sample - RPG Editor"
+    }
+  ]
+}
